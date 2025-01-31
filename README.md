@@ -35,8 +35,8 @@ Check out my repositories to explore some of the projects I’ve worked on:
 
 Feel free to reach out to me via:
 
-- **LinkedIn:** [linkedin.com/in/hammadbutt](https://linkedin.com/in/hammadbutt)
-- **Email:** [your-email@example.com](mailto:hammadbuttyk2@gmail.com)
+- **LinkedIn:** [linkedin.com/in/hammadbutt](www.linkedin.com/in/hammadbutt-frontend)
+- **Email:** [hammadbuttyk2@gmail.com](mailto:hammadbuttyk2@gmail.com)
 
 ---
 
