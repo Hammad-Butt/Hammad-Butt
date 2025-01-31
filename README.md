@@ -1,5 +1,4 @@
-# Hi there, I'm Hammad Butt 👋
-
+## Hi there, I'm Hammad Butt 👋
 🚀 **Front-End Developer** | 🎓 **BSCS Student** | 💡 **Tech Enthusiast**
 
 📍 **Mughalpura, Lahore, Pakistan**
@@ -19,7 +18,7 @@ I enjoy building **responsive** and **user-friendly** web applications, and I'm 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks & Libraries:** React.js, Bootstrap
 - **Tools:** Git, GitHub, Visual Studio Code
-- **Others:** Responsive Design,  APIs
+- **Others:** Responsive Design, APIs
 
 ---
 
@@ -27,8 +26,8 @@ I enjoy building **responsive** and **user-friendly** web applications, and I'm 
 
 Check out my repositories to explore some of the projects I’ve worked on:
 
-- [Project 1 Name](https://github.com/Hammad-Butt/TBS-Total-Business-Solutions-Portfolio-): A brief description of the project.
-- [Project 2 Name](https://github.com/Hammad-Butt/To-Do-list-app): A brief description of the project.
+- [Project TBS](https://github.com/Hammad-Butt/TBS-Total-Business-Solutions-Portfolio-): A brief description of the project.
+- [Project To Do List](https://github.com/Hammad-Butt/To-Do-list-app): A brief description of the project.
 
 ---
 
