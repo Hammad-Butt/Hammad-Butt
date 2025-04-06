@@ -6,9 +6,9 @@
 
 ### 🔹 About Me
 
-I’m a passionate **Front-End Developer** with a strong foundation in **HTML, CSS, JavaScript, React.js**, and other modern web technologies. I’m currently pursuing my **BSCS degree** while continuously improving my development skills.
+I’m a passionate Front-End Developer with a strong foundation in HTML, CSS, JavaScript, React.js, Tailwind CSS, and experience working with Firebase for backend services. I’m currently pursuing my BSCS degree while continuously sharpening my development skills.
 
-I enjoy building **responsive** and **user-friendly** web applications, and I'm always looking to learn and grow in this fast-evolving field.
+I enjoy building responsive, interactive, and user-friendly web applications using modern technologies. I'm always eager to explore new tools, frameworks, and best practices to stay ahead in this fast-evolving tech world.
 
 ---
 
