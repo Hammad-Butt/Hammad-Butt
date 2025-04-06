@@ -1,7 +1,6 @@
 ## Hi there, I'm Hammad Butt 👋
-🚀 **Front-End Developer** | 🎓 **BSCS Student** | 💡 **Tech Enthusiast**
+🚀 **Front-End Developer** |  💡 **Tech Enthusiast**
 
-📍 **Mughalpura, Lahore, Pakistan**
 
 ---
 
@@ -13,12 +12,28 @@ I enjoy building **responsive** and **user-friendly** web applications, and I'm 
 
 ---
 
-### 🔹 Skills & Technologies
+🔹 Skills & Technologies
+<p align="left">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <!-- Tailwind CSS (Working Icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React.js, Bootstrap
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Others:** Responsive Design, APIs
 
 ---
 
